@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskForJob</string>
+    <string name="btn_clickme">Click me</string>
+    <string name="menu_search_text">Search</string>
+    <string name="username_txt">Username</string>
+    <string name="last_name_txt">last name</string>
+</resources>
